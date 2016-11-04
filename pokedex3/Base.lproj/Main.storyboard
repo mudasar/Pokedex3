@@ -413,6 +413,7 @@
                         <outlet property="pokeEvoImage" destination="nEV-zz-GmM" id="Asc-Kd-xrA"/>
                         <outlet property="pokeEvoNextImage" destination="VMk-F7-JqD" id="R5d-T3-ggs"/>
                         <outlet property="pokeImage" destination="SFg-qx-YfE" id="ujf-gC-L5i"/>
+                        <outlet property="pokeNextEvoLabel" destination="i4d-Wg-iTJ" id="ApC-jX-100"/>
                         <outlet property="pokedexIDLabel" destination="t0S-xB-FVR" id="sCC-6P-IKv"/>
                         <outlet property="pokemonTypeLabel" destination="nqm-Sr-LX6" id="3Xb-yF-XKR"/>
                         <outlet property="weightLabel" destination="Bhb-wo-559" id="Op2-lN-0tr"/>
